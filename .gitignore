@@ -24,4 +24,4 @@ htmlcov/
 .vscode/
 *.log
 .DS_Store
-Thumbs.db
+Thumbs.d
